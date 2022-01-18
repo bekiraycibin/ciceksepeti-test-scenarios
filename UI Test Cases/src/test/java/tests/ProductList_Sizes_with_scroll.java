@@ -5,7 +5,7 @@ import org.junit.Test;
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 
-public class ProductList_Sizes extends baseTest {
+public class ProductList_Sizes_with_scroll extends baseTest {
 
     @Test
     public void productList() throws InterruptedException {
