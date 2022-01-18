@@ -3,7 +3,7 @@
 #### Api Testi İçin Kullanılan Teknolojiler;
 - Java(1.8 version)
 - Rest Assured 4.4.0
-- Junit 4.13.2 versiyonu
+- Junit 4.13.2 
 
 #### Bu test için Rest Assured kullanmamın sebebi , piyasada APİ testi için çok yaygın kullanılıyor olması ve olası hata durumunda çok fazla dökümana ulaşıyor olmamdır. Ayrıca kodsal olarak da yazımı komplex olmayıp , okunaklı yapısı bir diğer tercih sebebimdir.
 
