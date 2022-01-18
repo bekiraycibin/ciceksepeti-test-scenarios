@@ -1,6 +1,6 @@
 # Senaryo 2 Api-Test
 
-Api Testi İçin Kullanılan Teknolojiler;
+#### Api Testi İçin Kullanılan Teknolojiler;
 - Java Programlama Dili(1.8 version)
 - Rest Assured 4.4.0
 - Junit 4.13.2 versiyonu
