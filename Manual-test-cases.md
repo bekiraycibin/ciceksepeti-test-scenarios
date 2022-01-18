@@ -5,7 +5,6 @@
 - Given User Go to Login Page with "EN" Language
 - When  User types "Test-user@gmail.com" in E-mail Field
 - And   User types "Test123" in Password Field and push Enter
-- Then  User Sees Green Ticks in E-mail and Password Fields
 - Then  User Signs In as Successfully
 
 ### Scenario-2 : Success Sign In With Facebook Account
@@ -75,3 +74,6 @@
 - Given User Clicks "Ok" Button in Warning Message
 - When  User Types Correct Password as "Test123" in Password Field
 - Then  User Signs In as Successfully
+
+
+
